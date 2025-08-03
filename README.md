@@ -12,17 +12,17 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Go;Working+on+something+amazing+@Zapply" alt="Developer Info" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Go;Working+on+something+amazing+@Zapply" alt="Developer Info" />
 </div>
 
 ## 📫 Connect
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-moeztahir96%40gmail.com-2F81F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeztahir96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moeeztahir-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeeztahir/)
-[![Instagram](https://img.shields.io/badge/Instagram-moeez.t-2F81F7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moeez.t)
-[![Discord](https://img.shields.io/badge/Discord-moeez-2F81F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/630806911364628490)
+[![Email](https://img.shields.io/badge/Email-moeztahir96%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeztahir96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moeeztahir-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeeztahir/)
+[![Instagram](https://img.shields.io/badge/Instagram-moeez.t-6366F1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moeez.t)
+[![Discord](https://img.shields.io/badge/Discord-moeez-6366F1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/630806911364628490)
 
 </div>
 
@@ -41,7 +41,7 @@ React • Node.js • Java • Go • TypeScript • JavaScript
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeeztaher&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeeztaher&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=6366F1&line=6366F1&point=ffffff" alt="Contribution Graph" />
 </div>
 
 <div align="center">
