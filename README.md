@@ -39,7 +39,7 @@ Looking for a Full Stack Developer? I'd love to hear from you!
 <div align="center">
   
 ### 💼 Currently Working On
-**Zapply** - Building something great at [zapplyjobs](https://github.com/zapplyjobs)
+Working on something amazing **@Zapply** - [zapplyjobs](https://github.com/zapplyjobs)
 
 ### 🚀 Tech Stack
 React • Node.js • Java • Go • TypeScript • JavaScript
