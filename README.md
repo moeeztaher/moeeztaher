@@ -1,16 +1,16 @@
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│  ███╗   ███╗ ██████╗ ███████╗███████╗███████╗    ████████╗ █████╗ ██╗  ██╗ │
-│  ████╗ ████║██╔═══██╗██╔════╝██╔════╝╚══███╔╝    ╚══██╔══╝██╔══██╗██║  ██║ │
-│  ██╔████╔██║██║   ██║█████╗  █████╗    ███╔╝        ██║   ███████║███████║ │
-│  ██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝   ███╔╝         ██║   ██╔══██║██╔══██║ │
-│  ██║ ╚═╝ ██║╚██████╔╝███████╗███████╗███████╗       ██║   ██║  ██║██║  ██║ │
-│  ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ │
-│                                                                             │
-│                    Terminal UI Developer & CLI Enthusiast                   │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                  │
+│ ███╗   ███╗ ██████╗ ███████╗███████╗███████╗    ████████╗ █████╗ ██╗  ██╗██╗██████╗  │
+│ ████╗ ████║██╔═══██╗██╔════╝██╔════╝╚══███╔╝    ╚══██╔══╝██╔══██╗██║  ██║██║██╔══██╗ │
+│ ██╔████╔██║██║   ██║█████╗  █████╗    ███╔╝        ██║   ███████║███████║██║██████╔╝ │
+│ ██║╚██╔╝██║██║   ██║██╔══╝  ██╔══╝   ███╔╝         ██║   ██╔══██║██╔══██║██║██╔══██╗ │
+│ ██║ ╚═╝ ██║╚██████╔╝███████╗███████╗███████╗       ██║   ██║  ██║██║  ██║██║██║  ██║ │
+│ ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚══════╝╚══════╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ │
+│                                                                                  │
+│                        Terminal UI Developer & CLI Enthusiast                    │
+│                                                                                  │
+└──────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
@@ -56,26 +56,36 @@ drwxr-xr-x 15 moeez  staff   480 Aug  3 2025 ..
 -rwxr-xr-x  1 moeez  staff  1792 Aug  3 2025 tui.rs
 ```
 
-## `$ cat tech_stack.json`
+## `$ find /usr/local/lib -name "*tui*" -o -name "*cli*" | head -20`
 
-```json
-{
-  "terminal_ui_frameworks": {
-    "python": ["rich", "textual", "blessed", "curses"],
-    "javascript": ["ink", "blessed", "terminal-kit", "kleur"],
-    "rust": ["tui-rs", "crossterm", "termion", "ratatui"],
-    "go": ["bubbletea", "termui", "gocui", "tcell"],
-    "c++": ["ncurses", "ftxui", "final-cut"]
-  },
-  "languages": {
-    "primary": ["Python", "JavaScript", "TypeScript", "Rust"],
-    "secondary": ["Go", "C++", "Bash", "Lua"]
-  },
-  "cli_tools": {
-    "built": ["custom-dashboard", "log-analyzer", "file-manager"],
-    "contributed": ["terminal-themes", "cli-spinner", "progress-bars"]
-  }
-}
+```
+/usr/local/lib/python3.9/site-packages/rich/
+/usr/local/lib/python3.9/site-packages/textual/
+/usr/local/lib/python3.9/site-packages/blessed/
+/usr/local/lib/node_modules/ink/
+/usr/local/lib/node_modules/blessed/
+/usr/local/lib/node_modules/terminal-kit/
+/usr/local/lib/rust/tui-rs/
+/usr/local/lib/rust/crossterm/
+/usr/local/lib/rust/termion/
+/usr/local/lib/rust/ratatui/
+/usr/local/lib/go/bubbletea/
+/usr/local/lib/go/termui/
+/usr/local/lib/cpp/ncurses/
+/usr/local/lib/cpp/ftxui/
+```
+
+```bash
+┌─[moeez@github]─[~]
+└──╼ $ which python javascript rust go cpp
+```
+
+```
+/usr/bin/python3      → Primary: Building TUI apps with Rich & Textual
+/usr/bin/node         → Primary: CLI tools with Ink & Blessed  
+/usr/bin/rustc        → Learning: Fast TUI with Ratatui
+/usr/bin/go           → Learning: Bubbletea for modern CLIs
+/usr/bin/g++          → Secondary: System-level tools with ncurses
 ```
 
 ## `$ ps aux | grep current_projects`
@@ -138,43 +148,49 @@ moeez    1341  3.8   2.4   terminal-music-player   ncurses-based audio player
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeeztaher&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=000000&color=00ff00&line=00ff00&point=ffffff" alt="Contribution Graph" />
 </div>
 
-## `$ cat /proc/focus/current`
+## `$ cat ~/.bashrc | grep -A10 "# Development Philosophy"`
 
-```yaml
-development_philosophy:
-  - "CLI tools should be intuitive, not intimidating"
-  - "Beautiful UIs aren't limited to the web"
-  - "Terminal efficiency meets modern design"
+```bash
+# Development Philosophy
+export MOTTO1="CLI tools should be intuitive, not intimidating"
+export MOTTO2="Beautiful UIs aren't limited to the web"  
+export MOTTO3="Terminal efficiency meets modern design"
 
-current_stack:
-  learning: ["Textual Framework", "Rust TUI", "Go Bubbletea"]
-  building: ["zapply-jobs", "file-manager-tui", "git-dashboard"]
-  contributing: ["rich", "blessed", "ink"]
+# Current Learning Stack
+alias learning="echo 'Textual Framework, Rust TUI, Go Bubbletea'"
+alias building="echo 'zapply-jobs, file-manager-tui, git-dashboard'"
+alias contributing="echo 'rich, blessed, ink'"
 
-workflow:
-  editor: "nvim with custom TUI plugins"
-  terminal: "alacritty + tmux + custom themes"
-  version_control: "git with custom CLI tools"
-  testing: "pytest + custom terminal test frameworks"
+# My Workflow
+export EDITOR="nvim"
+export TERMINAL="alacritty + tmux + custom themes"
+export VCS="git with custom CLI tools"
 ```
 
-## `$ curl -s api.social/moeez | jq '.contacts'`
+## `$ cat /etc/hosts | grep -E "(social|contact)"`
 
-```json
-{
-  "professional": {
-    "github": "https://github.com/moeeztaher",
-    "linkedin": "https://www.linkedin.com/in/moeeztahir/",
-    "email": "moeztahir96@gmail.com",
-    "zapply_jobs": "https://github.com/zapplyjobs"
-  },
-  "social": {
-    "instagram": "https://www.instagram.com/moeez.t",
-    "discord": "discord.com/users/630806911364628490"
-  },
-  "preferred_contact": "terminal_based_messaging",
-  "status": "working_on_something_great_at_zapply"
-}
+```
+# Professional Contacts
+192.168.1.10    github.moeeztaher         # https://github.com/moeeztaher
+192.168.1.11    linkedin.moeeztahir       # https://www.linkedin.com/in/moeeztahir/
+192.168.1.12    email.moeztahir96         # moeztahir96@gmail.com
+192.168.1.13    zapply.jobs               # https://github.com/zapplyjobs
+
+# Social Networks  
+192.168.1.20    instagram.moeez           # https://www.instagram.com/moeez.t
+192.168.1.21    discord.moeez             # discord.com/users/630806911364628490
+```
+
+```bash
+┌─[moeez@github]─[~]
+└──╼ $ ping -c 1 status.current
+```
+
+```
+PING status.current (192.168.1.100): 56 data bytes
+64 bytes from 192.168.1.100: icmp_seq=0 ttl=64 time=0.123 ms
+Status: working_on_something_great_at_zapply
+Preferred Contact: terminal_based_messaging
 ```
 
 ```bash
