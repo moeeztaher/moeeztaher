@@ -19,10 +19,10 @@
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-moeztahir96%40gmail.com-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeztahir96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-moeeztahir-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeeztahir/)
-[![Instagram](https://img.shields.io/badge/Instagram-moeez.t-6366F1?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moeez.t)
-[![Discord](https://img.shields.io/badge/Discord-moeez-6366F1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/630806911364628490)
+[![Email](https://img.shields.io/badge/Email-moeztahir96%40gmail.com-6366F1?style=flat&logo=gmail&logoColor=white)](mailto:moeztahir96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moeeztahir-6366F1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeeztahir/)
+[![Instagram](https://img.shields.io/badge/Instagram-moeez.t-6366F1?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/moeez.t)
+[![Discord](https://img.shields.io/badge/Discord-moeez-6366F1?style=flat&logo=discord&logoColor=white)](https://discord.com/users/630806911364628490)
 
 </div>
 
@@ -37,7 +37,7 @@ React • Node.js • Java • Go • TypeScript • JavaScript
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-C,-B" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
