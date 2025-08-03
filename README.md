@@ -15,17 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Go;Working+on+something+amazing+@Zapply" alt="Developer Info" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=moeeztaher&label=visitors&color=2F81F7&style=flat-square" alt="Profile Views" />
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-  
-Looking for a Full Stack Developer? I'd love to hear from you!
-
-</div>
+## 📫 Connect
 
 <div align="center">
   
@@ -43,9 +33,6 @@ Working on something amazing **@Zapply** - [zapplyjobs](https://github.com/zappl
 
 ### 🚀 Tech Stack
 React • Node.js • Java • Go • TypeScript • JavaScript
-
-### 💬 Open to
-Collaboration • Tech discussions • Networking
 
 </div>
 
