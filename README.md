@@ -19,21 +19,34 @@
   <img src="https://komarev.com/ghpvc/?username=moeeztaher&label=visitors&color=2F81F7&style=flat-square" alt="Profile Views" />
 </div>
 
+## 📫 Let's Connect
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moeeztaher&show_icons=true&count_private=true&hide_border=true&theme=react&bg_color=1a1b27&text_color=ffffff&icon_color=2F81F7&title_color=2F81F7" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moeeztaher&hide_border=true&theme=react&background=1a1b27&stroke=2F81F7&ring=2F81F7&fire=FD6A85&currStreakLabel=2F81F7&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" width="48%" alt="GitHub Streak" />
+  
+Looking for a Full Stack Developer? I'd love to hear from you!
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moeeztaher&layout=compact&hide_border=true&theme=react&bg_color=1a1b27&text_color=ffffff&title_color=2F81F7&langs_count=8" alt="Top Languages" />
+  
+[![Email](https://img.shields.io/badge/Email-moeztahir96%40gmail.com-2F81F7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moeztahir96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moeeztahir-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moeeztahir/)
+[![Instagram](https://img.shields.io/badge/Instagram-moeez.t-2F81F7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/moeez.t)
+[![Discord](https://img.shields.io/badge/Discord-moeez-2F81F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/630806911364628490)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
+  
+### 💼 Currently Working On
+**Zapply** - Building something great at [zapplyjobs](https://github.com/zapplyjobs)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeeztaher&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=ffffff" alt="Contribution Graph" />
+### 🚀 Tech Stack
+React • Node.js • Java • Go • TypeScript • JavaScript
+
+### 💬 Open to
+New opportunities • Freelance projects • Collaboration • Tech discussions
+
 </div>
 
 <div align="center">
