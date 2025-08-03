@@ -37,7 +37,7 @@ React • Node.js • Java • Go • TypeScript • JavaScript
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7&rank=-SECRET,-HEART" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
