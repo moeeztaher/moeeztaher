@@ -50,5 +50,13 @@ New opportunities • Freelance projects • Collaboration • Tech discussions
 </div>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeeztaher&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=2F81F7&line=2F81F7&point=ffffff" alt="Contribution Graph" />
+</div>
+
+<div align="center">
   <sub>🔗 <a href="https://github.com/moeeztaher">@moeeztaher</a> • moeztahir96@gmail.com</sub>
 </div>
