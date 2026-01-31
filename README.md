@@ -36,9 +36,6 @@ React • Node.js • Java • Go • TypeScript • JavaScript
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moeeztaher&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=moeeztaher&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=1a1b27&color=6366F1&line=6366F1&point=ffffff" alt="Contribution Graph" />
