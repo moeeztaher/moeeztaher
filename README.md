@@ -28,9 +28,6 @@
 
 <div align="center">
   
-### 💼 Currently Working On
-Working on something amazing **@Zapply** - [zapplyjobs](https://github.com/zapplyjobs)
-
 ### 🚀 Tech Stack
 React • Node.js • Java • Go • TypeScript • JavaScript
 
